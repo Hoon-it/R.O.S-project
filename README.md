@@ -21,6 +21,10 @@ HW : Parrot Beop 2
 
 Youtube ---> "https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg/videos"
 
+사용 알고리즘
+
+![ros algorithm](https://user-images.githubusercontent.com/69448218/133361869-e87538a1-07ec-4e0f-ac48-796989822071.png)
+
 드론은 목표지점으로의 이동을 위한 G.P.S코드가 있습니다. 위성을 통해 제공받은 G.P.S 정보를 바탕으로 드론이 이동하여야 하는 지점을 특정할 수 있습니다.
 저희 팀에서는 많은 실험을 통하여 이동간 오차 범위와 속도 등의 최적의 컨트롤 값을 얻을 수 있었습니다.
 
