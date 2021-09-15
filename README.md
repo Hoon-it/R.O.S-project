@@ -31,3 +31,9 @@ Youtube ---> "https://www.youtube.com/channel/UCLSgng38L1zVYUgOHEe1yOg/videos"
 또한 드론이 탐색, 정렬간 북쪽을 바라보도록 설정하였는데 이를 통해 드론의 위치도 지도상의 정확한 사방위를 쉽게 파악할 수 있게 되었습니다.
 
 또한 cv_bridge를 사용 하여 R.O.S환경에서 Open_CV를 사용할 수 있게 만들었으며, 코드에 cascade Data를 접목시켜 화재 인식의 대한 성능을 향상 시켰습니다.
+
+결과 화면
+
+![ros window](https://user-images.githubusercontent.com/69448218/133362224-600cc191-3e2c-4112-a605-3fd40d05b5e7.png)
+
+![ros window2](https://user-images.githubusercontent.com/69448218/133362349-81fa39bd-5976-4756-a883-f979624af074.png)
